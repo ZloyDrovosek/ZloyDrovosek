@@ -24,19 +24,6 @@ Hello world!!! My name is ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͞�
 
 
 
-
-
-
-
-
-
-
-
-<img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/749ac770-e6dc-41e0-af47-58394b90d5e5" />
-
-
-
-
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/903992249514336276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:babkin.vnuk.123@mail.ru) 
 
