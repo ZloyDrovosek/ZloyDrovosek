@@ -14,7 +14,8 @@ Hello world!!! My name is ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͞�
 # ╭⚈¬⚈╮ Tech Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img width="692" height="388" alt="Video Project1" src="https://github.com/user-attachments/assets/4b27fa17-aacd-4ba7-abac-ab20f0aeb3f2" />
+<img width="640" height="360" alt="Black Hole 4K Video  get-save com  (1)" src="https://github.com/user-attachments/assets/84be06b9-fa32-4aac-b1b7-e246aafb4838" />
+
 
 
 █ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ 
