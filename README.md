@@ -3,7 +3,8 @@ Hello world!!! My name is ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͞�
 
 <img width="1608" height="149" alt="image" src="https://github.com/user-attachments/assets/365f80bd-5d27-421b-af0a-4d118bd2eade" />
 
-<img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/a8895971-bf88-45ba-8fd2-877f38057df1" />
+<img width="692" height="388" alt="Video Project1" src="https://github.com/user-attachments/assets/72ec5be3-c5b2-43cf-a7ba-2be24875c7b0" />
+
 
 
 ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜  ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄ ✜  ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜▀  
