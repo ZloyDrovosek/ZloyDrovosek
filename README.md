@@ -4,8 +4,8 @@ Hello world!!! My name is ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͞�
 <img width="1608" height="149" alt="image" src="https://github.com/user-attachments/assets/365f80bd-5d27-421b-af0a-4d118bd2eade" />
 
 <img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/dd6f5c5d-ee7b-44b3-8850-acfd755ec203" />
-<img width="498" height="250" alt="image" src="https://github.com/user-attachments/assets/31dcffac-30a7-4d2d-abec-172a95129dd3" />
 
+<div class="tenor-gif-embed" data-postid="19990794" data-share-method="host" data-aspect-ratio="1.98758" data-width="100%"><a href="https://tenor.com/view/coding-computer-coding-computer-hacking-hacker-gif-19990794">Coding Computer Coding GIF</a>from <a href="https://tenor.com/search/coding+computer-gifs">Coding Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
