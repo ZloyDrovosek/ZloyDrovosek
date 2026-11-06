@@ -14,10 +14,6 @@ Hello world!!! My name is ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͞�
 
 # ╭⚈¬⚈╮ Tech Stack:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# (人◕ω◕) GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ZloyDrovosek&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ZloyDrovosek&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZloyDrovosek&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <img width="692" height="388" alt="Video Project1" src="https://github.com/user-attachments/assets/44365cfd-c82f-4c9a-85e6-744c9759a3b4" />
-
+█ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ 
