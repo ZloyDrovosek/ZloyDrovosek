@@ -3,8 +3,10 @@ Hello world!!! My name is ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͞�
 
 <img width="1608" height="149" alt="image" src="https://github.com/user-attachments/assets/365f80bd-5d27-421b-af0a-4d118bd2eade" />
 
-<img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/dd6f5c5d-ee7b-44b3-8850-acfd755ec203" />
-▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜  ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄▀ ✜ ▀ ✜  ✜▀ ✜ ▀▄▀ ✜ ▀ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜▀  
+<img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/a8895971-bf88-45ba-8fd2-877f38057df1" />
+
+
+▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜  ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄ ✜  ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜▀  
 
 ## (❤ω❤) Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/903992249514336276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:babkin.vnuk.123@mail.ru) 
@@ -21,11 +23,5 @@ Hello world!!! My name is ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͞�
 
 ### (つ◉益◉)つ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZloyDrovosek&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=ZloyDrovosek&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+<img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/dd6f5c5d-ee7b-44b3-8850-acfd755ec203" />
