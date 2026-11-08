@@ -6,7 +6,7 @@ Hello world!!! I am ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͟͟͞͞�
 <img width="692" height="388" alt="Video Project1" src="https://github.com/user-attachments/assets/72ec5be3-c5b2-43cf-a7ba-2be24875c7b0" />
 
 
-▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜  ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄ ✜  ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ 
+▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜  ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ▄▀▄ ✜ ▄ ✜ ▄▀▄ ✜✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄▀ ✜ ▀ ✜ ✜▀ ✜ ▀▄ ✜  ✜▄▀▄ ✜ ▄ ✜ 
 
 ## (❤ω❤) Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/903992249514336276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:babkin.vnuk.123@mail.ru) 
@@ -19,10 +19,3 @@ Hello world!!! I am ༺☆𝙗𝙚𝙙𝙤𝙡𝙖𝗴𝙖☆༻<br>—͟͟͞͞�
 
 
 █ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ █▬█ █ ▀█▀▂ ▃ ▄ ▅ ▆ ▇ █ ██ █ ▇ ▆ ▅ ▄ ▃ ▂ 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SDF&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?username=SDF&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SDF&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
